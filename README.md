@@ -1,7 +1,5 @@
-Berikut adalah **README.md** profesional yang bisa kamu gunakan untuk repo GitHub kamu: [`blog-databasepost`](https://github.com/MemoriesEndX/blog-databasepost-).
 
 ---
-
 ````markdown
 # Blog DatabasePost 📝
 
@@ -85,5 +83,10 @@ npm run dev
 ```powershell
 Set-ExecutionPolicy RemoteSigned
 ```
+<img width="1919" height="1079" alt="Screenshot 2025-08-04 202804" src="https://github.com/user-attachments/assets/48ca280e-6ee2-4ea5-9a98-487f1da05b8d" />
+
+<img width="769" height="1034" alt="image" src="https://github.com/user-attachments/assets/c26ad019-72ed-4fcc-9531-7df25aff989c" />
+
+
 
 
